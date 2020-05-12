@@ -1,4 +1,4 @@
 [submodule "waveglow"]
 	path = waveglow
-	url = https://github.com/NVIDIA/waveglow
+	url = "git@github.com:nare-ua/waveglow.git"
 	branch = master
